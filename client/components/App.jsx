@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './Navbar.jsx'
+import NavBar from './NavBar.jsx'
 import MobileNav from './MobileNav.jsx'
 import Banner from './Banner.jsx'
 import About from './About.jsx'

@@ -1,6 +1,5 @@
 import React from 'react';
-const BannerImg = require('./images/header.png')
-// import BannerImg from 'images/banner.png';
+
 
 class Banner extends React.Component {
    render() {
